@@ -1,0 +1,2 @@
+D:\VS2019 project\my_strncat\Debug\my_strncat.exe
+D:\VS2019 project\my_strncat\Debug\my_strncat.pdb
