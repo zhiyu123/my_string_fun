@@ -1,0 +1,2 @@
+D:\VS2019 project\my_strncmp\Debug\my_strncmp.exe
+D:\VS2019 project\my_strncmp\Debug\my_strncmp.pdb
