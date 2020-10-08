@@ -1,0 +1,2 @@
+D:\VS2019 project\my_memmove\Debug\my_memmove.exe
+D:\VS2019 project\my_memmove\Debug\my_memmove.pdb
