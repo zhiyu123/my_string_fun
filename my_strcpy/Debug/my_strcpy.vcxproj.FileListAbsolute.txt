@@ -1,0 +1,2 @@
+D:\VS2019 project\my_strcpy\Debug\my_strcpy.exe
+D:\VS2019 project\my_strcpy\Debug\my_strcpy.pdb
